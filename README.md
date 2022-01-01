@@ -1,0 +1,2 @@
+# EasMag
+ release management system
